@@ -9,10 +9,10 @@ Olá! Meu nome é **Mateus Ribas Marques**, tenho paixão por desenvolvimento we
 ### 🌐 Redes Sociais
 
 <p align="left">
-  <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
+  <a href="https://www.instagram.com/mmateusribas/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu_usuario_aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/mateusribas/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
@@ -34,33 +34,32 @@ Olá! Meu nome é **Mateus Ribas Marques**, tenho paixão por desenvolvimento we
 
 ---
 
-### 📊  GitHub
+### 📊 GitHub
 
-<p>
+<div align="center">
+  
   <img 
-    align="left" 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
+  
   <img 
-    align="left" 
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&langs_count=7&theme=dracula&custom_title=Linguagens"
   />
-</p>
 
-<br clear="both"/>
+  <br/><br/>
 
-<p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=MateusRibasMarques&theme=dracula"
     alt="GitHub Streak"
   />
-</p>
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=MateusRibasMarques&bg_color=0d1117&color=ffffff&line=5eead4&point=ffffff&area=true&hide_border=true" 
-  alt="GitHub Activity Graph"
-/>
 
+  <br/><br/>
 
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MateusRibasMarques&bg_color=0d1117&color=ffffff&line=5eead4&point=ffffff&area=true&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
 
+</div>
