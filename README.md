@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Mateus Ribas
 
-**`Desenvolvedor Front-End`**
+**`Developer`**
 
 Olá! Meu nome é **Mateus Ribas Marques**, tenho paixão por desenvolvimento web e estou em constante evolução na área de tecnologia. Atualmente estudo Análise e Desenvolvimento de Sistemas e busco sempre transformar ideias em interfaces interativas e funcionais. Conecto tecnologia, design e usabilidade em tudo o que crio.
 
