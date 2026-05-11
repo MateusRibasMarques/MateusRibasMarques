@@ -1,8 +1,7 @@
 # 👨🏻‍💻 Mateus Ribas
 
 **`Developer`**
-
-Olá! Meu nome é **Mateus Ribas Marques**, tenho paixão por desenvolvimento web e estou em constante evolução na área de tecnologia. Atualmente estudo Análise e Desenvolvimento de Sistemas e busco sempre transformar ideias em interfaces interativas e funcionais. Conecto tecnologia, design e usabilidade em tudo o que crio.
+Olá! Meu nome é **Mateus Ribas Marques** e sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento web. Tenho grande interesse tanto em front-end quanto em back-end, buscando sempre evoluir minhas habilidades para criar aplicações completas, modernas e funcionais. Gosto de unir lógica, design e usabilidade para transformar ideias em soluções digitais interativas e eficientes. Estou em constante aprendizado, sempre explorando novas tecnologias e desafios na área da programação.
 
 ---
 
