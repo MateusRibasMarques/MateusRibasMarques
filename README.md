@@ -33,32 +33,4 @@ Olá! Meu nome é **Mateus Ribas Marques** e sou estudante de Engenharia de Soft
 
 ---
 
-### 📊 GitHub
 
-<div align="center">
-  
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  />
-  
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&langs_count=7&theme=dracula&custom_title=Linguagens"
-  />
-
-  <br/><br/>
-
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MateusRibasMarques&theme=dracula"
-    alt="GitHub Streak"
-  />
-
-  <br/><br/>
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MateusRibasMarques&bg_color=0d1117&color=ffffff&line=5eead4&point=ffffff&area=true&hide_border=true" 
-    alt="GitHub Activity Graph"
-  />
-
-</div>
