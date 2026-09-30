@@ -40,7 +40,7 @@ Tenho interesse em desenvolvimento de software, com foco em **Back-end, APIs e b
 ## ⏱️ WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mateusribas&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
