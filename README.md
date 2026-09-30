@@ -1,36 +1,112 @@
-# 👨🏻‍💻 Mateus Ribas
+# 👨‍💻 Mateus Ribas
 
-**`Developer`**
-Olá! Meu nome é **Mateus Ribas Marques** e sou estudante de Engenharia de Software, apaixonado por tecnologia e desenvolvimento web. Tenho grande interesse tanto em front-end quanto em back-end, buscando sempre evoluir minhas habilidades para criar aplicações completas, modernas e funcionais. Gosto de unir lógica, design e usabilidade para transformar ideias em soluções digitais interativas e eficientes. Estou em constante aprendizado, sempre explorando novas tecnologias e desafios na área da programação.
+### Desenvolvedor | Estudante de Engenharia de Software
+
+Olá! Meu nome é **Mateus Ribas Marques** e sou estudante de **Engenharia de Software na PUC Minas**.
+
+Tenho interesse em desenvolvimento de software, com foco em **Back-end, APIs e bancos de dados**. Atualmente venho desenvolvendo projetos utilizando **Java, Spring Boot, C#, JavaScript, React e PostgreSQL**, buscando aprimorar continuamente meus conhecimentos através de projetos acadêmicos e pessoais.
 
 ---
 
-### 🌐 Redes Sociais
+## 🛠️ Tecnologias
 
 <p align="left">
-  <a href="https://www.instagram.com/mmateusribas/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,js,ts,react,html,css,postgres,mysql,c,cpp,git,github" />
+</p>
+
+---
+
+## 🌐 Redes Sociais
+
+<p align="left">
+  <a href="SEU_LINK_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/mateusribas/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="SEU_LINK_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tecnologias
+## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="30" style="padding-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" style="padding-right:10px;" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
+## ⏱️ WakaTime
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SEU_WAKATIME_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MateusRibasMarques&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusRibasMarques&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Principais Projetos
+
+### 🎬 FrameTech
+
+Sistema para gerenciamento de projetos audiovisuais, conectando clientes, profissionais e administradores.
+
+**Tecnologias:** React.js • Spring Boot • PostgreSQL
+
+---
+
+### 🚗 FIPE Rest API
+
+API REST desenvolvida com Spring Boot para consulta de informações de veículos utilizando dados da Tabela FIPE.
+
+**Tecnologias:** Java • Spring Boot • REST API
+
+---
+
+### 🚘 DriveON
+
+Sistema de comércio de veículos desenvolvido como projeto acadêmico.
+
+**Tecnologias:** React.js • Spring Boot • SQL
+
+---
+
+## 📚 Formação
+
+🎓 **Engenharia de Software — PUC Minas**
+
+💻 **Técnico em Informática — Cotemig**
+
+---
+
+## 📌 Atualmente
+
+- 🎓 Cursando Engenharia de Software
+- 💻 Desenvolvendo projetos com Java e Spring Boot
+- 🗄️ Aprofundando conhecimentos em bancos de dados
+- 🌐 Desenvolvendo aplicações web
+- 📚 Sempre estudando e buscando evoluir como desenvolvedor
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MateusRibasMarques&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
