@@ -32,11 +32,12 @@ Tenho interesse em desenvolvimento de software, com foco em **Back-end, APIs e b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&theme=transparent" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&theme=transparent" />
+</p>
 ---
 
 ## ⏱️ WakaTime
