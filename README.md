@@ -32,11 +32,8 @@ Tenho interesse em desenvolvimento de software, com foco em **Back-end, APIs e b
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MateusRibasMarques&show_icons=true&theme=transparent" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MateusRibasMarques&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MateusRibasMarques&layout=compact&theme=transparent&hide_border=true" />
 </p>
 ---
 
